@@ -1,0 +1,5 @@
+PROJETO-servidorUsersNodejs
+
+Servidor LocalHost aonde são feitas as funções de adcionar/selecionar/excluir o usúario. Feito através de JavaScript e NodeJS. Projeto proposto através da Gama Academy no bootcamp Hiring Coders
+
+Durante o desnvolvimento foi usada as tecnlogias JavaScript e NodeJS com foco no desenvolvimento da lógica de programação, servidor localHost NPM URL, Query String (Nodejs) e sistema de files.
